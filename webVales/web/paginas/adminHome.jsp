@@ -43,7 +43,9 @@
           <div class="container" >
             <div class="panel panel-default">
                 <div class="panel-body">
-                    
+                    <div id="prueba" class="divMenu">
+                        <button type="button" class="btn btn-primary btn-lg btn-block">div prueba</button>
+                    </div>
                     <div id="adminPersonal" class="divMenu">
                         <button type="button" class="btn btn-primary btn-lg btn-block">Admistrar Usuarios</button>
                     </div>
